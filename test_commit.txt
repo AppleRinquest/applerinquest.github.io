@@ -1,1 +1,1 @@
-﻿TEst
+﻿This is the test by committed though git command.
